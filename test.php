@@ -7,6 +7,7 @@
 $homepage = file_get_contents('http://www.fussball.de/ajax.club.matchplan.loadmore/-/id/00ES8GN8LS00005DVV0AG08LVUPGND5I/max/1000/show-venues/true/');
 //$homepage = file_get_contents('http://www.fussball.de/ajax.club.matchplan.loadmore/-/id/00ES8GN8N400008VVV0AG08LVUPGND5I/max/1000/show-venues/true/');
 //Weiter Testen
+//noch weiter testen
 
 $matches = array();
 $logos = array();
